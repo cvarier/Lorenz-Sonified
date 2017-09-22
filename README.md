@@ -13,9 +13,9 @@ The piece is generated as a continuous stream of sine tones produced by patching
 
 ## Possible Improvements/Further steps
 
-• Add multiple Lorenz systems to the same plot (with different starting points and system parameters),
+- Add multiple Lorenz systems to the same plot (with different starting points and system parameters),
   then combine the musical sequences produced by each of these plots to form one cohesive piece with harmony
 
-• Try the same procedure with different mathematical systems such as the Mandelbrot set
+- Try the same procedure with different mathematical systems such as the Mandelbrot set
 
-• Attempt to form musical pieces using different metadata about the system, such as hue and perturbations   
+- Attempt to form musical pieces using different metadata about the system, such as hue and perturbations   
