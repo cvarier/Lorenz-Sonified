@@ -6,6 +6,9 @@ In this repo, you will find a file called Lorenz.pde, which contains code for vi
 
 Included, are two video files, one containing the visualized animation synced to the sonification and the other containing the skeleton of the system and the attractors used as reference points for the distance measurements.
 
+<p align="left"><img src ="https://user-images.githubusercontent.com/16710726/30725059-f872e918-9f0f-11e7-9921-07bca5fcd5a8.png"/></p>
+A screenshot of the generated visualization
+
 ## Sonification
 The code which generates the sonification is found in CreatePiece.pde. The tempo setting algorithm works by determining a spatial mapping of the distances between adjacent nodes traversed by the Lorenz system graph to a range of time intervals. The same concept is applied for calculating the current pitch, however the distance between the current node and the midpoint of the Lorenz attractors is used instead.
 
